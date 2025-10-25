@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <div align="center">
 <a  href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=I+am+a+fullstack+developer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=I+am+fullstack+developer" alt="Typing SVG">
 </a>
 </div>
 <h2 align="center">💻 My tech stack</h2>
